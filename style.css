@@ -1,0 +1,53 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.abc{
+    text-align: center;
+    color: blue;
+}
+h6{
+    margin-left: 250px;
+    color: rgb(175, 166, 166);
+    cursor: pointer;
+}
+.sab{
+    margin-left: 300px;
+    color: white;
+    background-color: blue;
+    width: 100px;
+    height: 50px;
+}
+h4{
+margin-left: 180px;
+}
+.img1,.img2,.img3{
+    margin-left: 150px;
+    border: 5px;
+    border-color:2px solid rgb(23, 107, 241);
+    cursor: pointer;
+}
+.cl1{
+    z-index: -1;
+    position: absolute;
+}
+.ram{
+    text-align: end;
+    cursor: pointer;
+
+}
+.cl1{
+    color:white;
+}
+h1{
+    text-align: center;
+}
+.cen{
+    margin-left: 150px;
+}
+input{
+    width: 350px;
+    height: 50px;
+    border-radius: 10px;
+    color: aqua;
+}
